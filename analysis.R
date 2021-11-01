@@ -2,4 +2,4 @@
 library(treeio)
 library(tidyverse)
 
-data <- read_csv("file.csv")
+data <- read_csv("data/data.csv")
